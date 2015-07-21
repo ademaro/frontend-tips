@@ -1,6 +1,7 @@
 # frontend-tips
 
-http://codeguide.co/ – кодстайл
+* http://codeguide.co/ – html&css кодстайл
+* https://github.com/airbnb/javascript, https://learn.javascript.ru/coding-style – js кодстайл
 
 ### HTML5
 
