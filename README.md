@@ -29,3 +29,8 @@
 * https://help.github.com/ – обучалки от гитхаба
 * http://www.youtube.com/watch?v=UWW7tVgCdH8 – слегка сумбурное видео)
 * https://github.com/ademaro/technomart – ссылка на гит-репу из видео, если кому интересно))
+
+### Psd
+
+* http://freebiesbug.com/psd-freebies/website-template/
+* http://www.freepik.com/free-psd/web-templates
