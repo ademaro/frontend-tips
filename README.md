@@ -34,3 +34,8 @@
 
 * http://freebiesbug.com/psd-freebies/website-template/
 * http://www.freepik.com/free-psd/web-templates
+
+### Examples
+#### Sliders
+
+* http://tympanus.net/Development/ParallaxContentSlider/
