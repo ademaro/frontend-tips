@@ -39,3 +39,4 @@
 #### Sliders
 
 * http://tympanus.net/Development/ParallaxContentSlider/
+* http://tympanus.net/Tutorials/FullscreenSlitSlider/
