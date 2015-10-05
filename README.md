@@ -20,6 +20,10 @@
 * http://bennettfeely.com/flexplorer/
 * http://pepelsbey.net/2013/05/flexbox-gotcha/
 
+### Advanced
+
+* http://css-live.ru/articles/pogovorim-ob-web-animations-api.html — серия статей про Web Animations API
+
 ### Git
 
 * http://pcottle.github.io/learnGitBranching/ – игра-обучалка
