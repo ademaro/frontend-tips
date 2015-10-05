@@ -8,10 +8,18 @@
 * https://developers.whatwg.org/ – спецификация от whatwg
 * Напоминалка по выбору html5 тегов: https://pp.vk.me/c627726/v627726125/665f/LT_Tk5TLJK0.jpg
 * http://html5doctor.com/ – для тех, кто сомневается какой тег использовать
+* http://bitsofco.de/2015/sectioning-content-in-html5/ — свежая статья про выбор `<div>`, `<section>` или `<article>` (eng) 
 * http://pepelsbey.net/pres/sense-coding/ – старо, но актуально (лекция Макеева)
 * http://pepelsbey.net/2011/07/sense-coding/ – к презентации Макеева
 * http://design-for-business.ru/analytics/articles/id/504.htm – про сетку на сайте
 * http://www.smashingmagazine.com/2012/12/17/css-baseline-the-good-the-bad-and-the-ugly/ – ещё про вертикальный ритм, столь важный для типографики
+
+### SASS, LESS
+
+* «Эстетичный Sass», серия статей: 
+  * [часть 1: «архитектура и организация»](http://prgssr.ru/development/estetichnyj-sass-chast-1---arhitektura-i-organizaciya.html) 
+  * [часть 2: «цвета и палитры»](http://prgssr.ru/development/estetichnyj-sass-chast-2-cveta-i-palitry.html) 
+  * [часть 3: «типографика и вертикальный ритм»](http://prgssr.ru/development/estetichnyj-sass-chast-3-tipografika-i-vertikalnyj-ritm.html)
 
 ### FlexBox
 
@@ -22,7 +30,18 @@
 
 ### Advanced
 
-* http://css-live.ru/articles/pogovorim-ob-web-animations-api.html — серия статей про Web Animations API
+* Серия статей про Web Animations API:
+  * [Введение: поговорим об Web Animations API](http://css-live.ru/articles/pogovorim-ob-web-animations-api.html)
+  * [часть 1: создание базовой анимации](http://css-live.ru/articles/rukovodstvo-po-web-animations-api-chast-1-sozdanie-bazovoj-animacii.html)
+  * [Часть 2: AnimationPlayer и управление временной шкалой](http://css-live.ru/articles/rukovodstvo-po-web-animations-api-chast-2-animationplayer-i-upravlenie-vremennoj-shkaloj.html)
+  * [Часть 3: множественнные анимации](http://css-live.ru/articles/rukovodstvo-po-web-animations-api-chast-3-mnozhestvennye-animacii.html)
+  * [Часть 4: групповые и последовательные эффекты](http://css-live.ru/articles/rukovodstvo-po-web-animations-api-chast-4-gruppovye-i-posledovatelnye-effekty.html)
+  * [Часть 5: траектории движений](http://css-live.ru/articles/rukovodstvo-po-web-animations-api-chast-5-priyatnaya-traektoriya-dvizheniya.html)
+* [Улучшение загрузки шрифтов c помощью localStorage и WOFF2](https://htmlacademy.ru/blog/61)
+
+### Gulp, Grunt
+
+* [PostCSS Quickstart Guide: Gulp Setup](http://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-gulp-setup--cms-24543)
 
 ### Git
 
