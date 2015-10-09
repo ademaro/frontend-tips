@@ -52,6 +52,7 @@
 * https://help.github.com/ – обучалки от гитхаба
 * http://www.youtube.com/watch?v=UWW7tVgCdH8 – слегка сумбурное видео)
 * https://github.com/ademaro/technomart – ссылка на гит-репу из видео, если кому интересно))
+* http://habrahabr.ru/company/mailru/blog/267595/ — 19 советов по повседневной работе с Git
 
 ### Psd
 
