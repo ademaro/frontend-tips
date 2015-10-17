@@ -1,6 +1,6 @@
 # frontend-tips
 
-* html&css кодстайл: [оригинал на английском](http://codeguide.co/), [перевод от академии](https://htmlacademy.github.io/codeguide/)
+* html&css кодстайл: [оригинал на английском](http://codeguide.co/), [перевод](http://instanceof.pro/code-guide/)
 * js кодстайл: [от Airbnb](https://github.com/airbnb/javascript), [от javascript.ru](https://learn.javascript.ru/coding-style) 
 * [Словарь терминов по фронтенду](https://github.com/web-standards-ru/dictionary)
 
