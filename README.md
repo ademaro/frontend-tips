@@ -49,7 +49,7 @@
 * [Игра-обучалка](http://pcottle.github.io/learnGitBranching/)
 * [Очень краткое руководство-шпаргалка](http://rogerdudler.github.io/git-guide/index.ru.html)
 * [Крутой перевод крутой статьи про гит: читается на одном дыхании, практически все возможности гита очень доступным языком](http://habrahabr.ru/post/268951/) 
-* [Слегка сумбурное видео от меня на примере техномарта)](https://www.youtube.com/watch?v=UWW7tVgCdH8), [ссылка на гит-репу из видео, если кому интересно))](https://github.com/ademaro/technomart) 
+* [Слегка сумбурное видео от меня на примере техномарта)](https://www.youtube.com/watch?v=UWW7tVgCdH8), [ссылка на гит-репу из видео, если кому интересно)](https://github.com/ademaro/technomart) 
 * [Более детальное руководство-обучалка)[http://githowto.com/ru] 
 * [Хороший список туториалов от atlassian (en)](https://www.atlassian.com/git/)
 * [Понятные и наглядные обучалки от гитхаба (en)](https://help.github.com/)
