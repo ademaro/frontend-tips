@@ -29,21 +29,6 @@
 * http://bennettfeely.com/flexplorer/
 * http://pepelsbey.net/2013/05/flexbox-gotcha/
 
-### Advanced
-
-* Серия статей про Web Animations API:
-  * [Введение: поговорим об Web Animations API](http://css-live.ru/articles/pogovorim-ob-web-animations-api.html)
-  * [часть 1: создание базовой анимации](http://css-live.ru/articles/rukovodstvo-po-web-animations-api-chast-1-sozdanie-bazovoj-animacii.html)
-  * [Часть 2: AnimationPlayer и управление временной шкалой](http://css-live.ru/articles/rukovodstvo-po-web-animations-api-chast-2-animationplayer-i-upravlenie-vremennoj-shkaloj.html)
-  * [Часть 3: множественнные анимации](http://css-live.ru/articles/rukovodstvo-po-web-animations-api-chast-3-mnozhestvennye-animacii.html)
-  * [Часть 4: групповые и последовательные эффекты](http://css-live.ru/articles/rukovodstvo-po-web-animations-api-chast-4-gruppovye-i-posledovatelnye-effekty.html)
-  * [Часть 5: траектории движений](http://css-live.ru/articles/rukovodstvo-po-web-animations-api-chast-5-priyatnaya-traektoriya-dvizheniya.html)
-* [Улучшение загрузки шрифтов c помощью localStorage и WOFF2](https://htmlacademy.ru/blog/61)
-
-### Gulp, Grunt
-
-* [PostCSS Quickstart Guide: Gulp Setup](http://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-gulp-setup--cms-24543)
-
 ### Git
 
 * [Игра-обучалка](http://pcottle.github.io/learnGitBranching/)
@@ -54,6 +39,22 @@
 * [Хороший список туториалов от atlassian (en)](https://www.atlassian.com/git/)
 * [Понятные и наглядные обучалки от гитхаба (en)](https://help.github.com/)
 * [19 советов по повседневной работе с Git](http://habrahabr.ru/company/mailru/blog/267595/)
+
+### Advanced
+
+* [Улучшение загрузки шрифтов c помощью localStorage и WOFF2](https://htmlacademy.ru/blog/61)
+* [Детальный разбор как работает z-index](http://habrahabr.ru/post/166435/)
+* Серия статей про Web Animations API:
+  * [Введение: поговорим об Web Animations API](http://css-live.ru/articles/pogovorim-ob-web-animations-api.html)
+  * [часть 1: создание базовой анимации](http://css-live.ru/articles/rukovodstvo-po-web-animations-api-chast-1-sozdanie-bazovoj-animacii.html)
+  * [Часть 2: AnimationPlayer и управление временной шкалой](http://css-live.ru/articles/rukovodstvo-po-web-animations-api-chast-2-animationplayer-i-upravlenie-vremennoj-shkaloj.html)
+  * [Часть 3: множественнные анимации](http://css-live.ru/articles/rukovodstvo-po-web-animations-api-chast-3-mnozhestvennye-animacii.html)
+  * [Часть 4: групповые и последовательные эффекты](http://css-live.ru/articles/rukovodstvo-po-web-animations-api-chast-4-gruppovye-i-posledovatelnye-effekty.html)
+  * [Часть 5: траектории движений](http://css-live.ru/articles/rukovodstvo-po-web-animations-api-chast-5-priyatnaya-traektoriya-dvizheniya.html)
+
+### Gulp, Grunt
+
+* [PostCSS Quickstart Guide: Gulp Setup](http://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-gulp-setup--cms-24543)
 
 ### Psd
 
