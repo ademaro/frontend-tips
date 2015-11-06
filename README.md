@@ -40,6 +40,10 @@
 * [Понятные и наглядные обучалки от гитхаба (en)](https://help.github.com/)
 * [19 советов по повседневной работе с Git](http://habrahabr.ru/company/mailru/blog/267595/)
 
+### SVG
+
+* [SVG-иконки – много и со стилем](http://habrahabr.ru/company/devexpress/blog/269331/)
+
 ### Advanced
 
 * [Улучшение загрузки шрифтов c помощью localStorage и WOFF2](https://htmlacademy.ru/blog/61)
