@@ -28,6 +28,7 @@
 * http://html5.by/blog/flexbox/
 * http://bennettfeely.com/flexplorer/
 * http://pepelsbey.net/2013/05/flexbox-gotcha/
+* https://github.com/philipwalton/flexbugs
 
 ### Git
 
