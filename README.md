@@ -33,6 +33,7 @@
 
 ### Git
 
+* [Толковая обучалка, если есть немного времени](http://githowto.com/ru)
 * [Игра-обучалка](http://pcottle.github.io/learnGitBranching/)
 * [Очень краткое руководство-шпаргалка](http://rogerdudler.github.io/git-guide/index.ru.html)
 * [Крутой перевод крутой статьи про гит: читается на одном дыхании, практически все возможности гита очень доступным языком](http://habrahabr.ru/post/268951/) 
