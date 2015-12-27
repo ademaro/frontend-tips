@@ -3,6 +3,7 @@
 * html&css кодстайл: [оригинал на английском](http://codeguide.co/), [перевод](http://instanceof.pro/code-guide/)
 * js кодстайл: [от Airbnb](https://github.com/airbnb/javascript), [от javascript.ru](https://learn.javascript.ru/coding-style) 
 * [Словарь терминов по фронтенду](https://github.com/web-standards-ru/dictionary)
+* [Типичные названия классов в HTML](https://github.com/walom88/walom88/blob/master/list_of_tags.txt)
 
 ### HTML5
 
