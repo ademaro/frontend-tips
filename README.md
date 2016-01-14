@@ -4,6 +4,7 @@
 * js кодстайл: [от Airbnb](https://github.com/airbnb/javascript), [от javascript.ru](https://learn.javascript.ru/coding-style) 
 * [Словарь терминов по фронтенду](https://github.com/web-standards-ru/dictionary)
 * [Типичные названия классов в HTML](https://github.com/walom88/walom88/blob/master/list_of_tags.txt)
+* [Коллекция практических советов и заметок по вёрстке](http://habrahabr.ru/post/273471/)
 
 ### HTML5
 
