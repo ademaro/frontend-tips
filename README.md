@@ -43,6 +43,7 @@
 * [Хороший список туториалов от atlassian (en)](https://www.atlassian.com/git/)
 * [Понятные и наглядные обучалки от гитхаба (en)](https://help.github.com/)
 * [19 советов по повседневной работе с Git](http://habrahabr.ru/company/mailru/blog/267595/)
+* [Шпоргалка по гиту](https://github.com/tiimgreen/github-cheat-sheet)
 
 ### SVG
 
