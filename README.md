@@ -17,8 +17,9 @@
 * http://design-for-business.ru/analytics/articles/id/504.htm — про сетку на сайте
 * http://www.smashingmagazine.com/2012/12/17/css-baseline-the-good-the-bad-and-the-ugly/ — ещё про вертикальный ритм, столь важный для типографики
 
-### SASS, LESS
+### SASS, LESS, PostCSS
 
+* [О PostCSS от его создателя](http://forwebdev.ru/css/about-postcss/)
 * «Эстетичный Sass», серия статей: 
   * [часть 1: «архитектура и организация»](http://prgssr.ru/development/estetichnyj-sass-chast-1---arhitektura-i-organizaciya.html) 
   * [часть 2: «цвета и палитры»](http://prgssr.ru/development/estetichnyj-sass-chast-2-cveta-i-palitry.html) 
