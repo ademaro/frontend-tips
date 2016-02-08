@@ -24,6 +24,10 @@
   * [часть 1: «архитектура и организация»](http://prgssr.ru/development/estetichnyj-sass-chast-1---arhitektura-i-organizaciya.html) 
   * [часть 2: «цвета и палитры»](http://prgssr.ru/development/estetichnyj-sass-chast-2-cveta-i-palitry.html) 
   * [часть 3: «типографика и вертикальный ритм»](http://prgssr.ru/development/estetichnyj-sass-chast-3-tipografika-i-vertikalnyj-ritm.html)
+  * 
+
+### Методологии
+* [БЭМ-методология: с чего всё начиналось и зачем это всё нужно](https://habrahabr.ru/company/yandex/blog/276035/)
 
 ### FlexBox
 
