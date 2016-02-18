@@ -17,6 +17,9 @@
 * http://design-for-business.ru/analytics/articles/id/504.htm — про сетку на сайте
 * http://www.smashingmagazine.com/2012/12/17/css-baseline-the-good-the-bad-and-the-ugly/ — ещё про вертикальный ритм, столь важный для типографики
 
+### Техники
+* [Image Replacement](https://css-tricks.com/the-image-replacement-museum/)
+
 ### SASS, LESS, PostCSS
 
 * [О PostCSS от его создателя](http://forwebdev.ru/css/about-postcss/)
