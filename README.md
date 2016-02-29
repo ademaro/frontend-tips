@@ -39,6 +39,7 @@
 * http://bennettfeely.com/flexplorer/
 * http://pepelsbey.net/2013/05/flexbox-gotcha/
 * https://github.com/philipwalton/flexbugs
+* http://bitsofco.de/6-reasons-to-start-using-flexbox/
 
 ### Git
 
