@@ -23,6 +23,7 @@
 ### SASS, LESS, PostCSS
 
 * [О PostCSS от его создателя](http://forwebdev.ru/css/about-postcss/)
+* [Как валидировать Sass/CSS с Stylelint (En)](http://www.creativenightly.com/2016/02/How-to-lint-your-css-with-stylelint/)
 * «Эстетичный Sass», серия статей: 
   * [часть 1: «архитектура и организация»](http://prgssr.ru/development/estetichnyj-sass-chast-1---arhitektura-i-organizaciya.html) 
   * [часть 2: «цвета и палитры»](http://prgssr.ru/development/estetichnyj-sass-chast-2-cveta-i-palitry.html) 
