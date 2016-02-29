@@ -40,6 +40,7 @@
 * http://pepelsbey.net/2013/05/flexbox-gotcha/
 * https://github.com/philipwalton/flexbugs
 * http://bitsofco.de/6-reasons-to-start-using-flexbox/
+* https://www.smashingmagazine.com/2016/02/the-flexbox-reading-list/
 
 ### Git
 
