@@ -20,8 +20,9 @@
 ### Техники
 * [Image Replacement](https://css-tricks.com/the-image-replacement-museum/)
 
-### SASS, LESS, PostCSS
+### CSS, SASS, LESS, PostCSS
 
+* [Интересные и необычные CSS рецепты (En)](http://ipestov.com/22-essential-css-recipes/)
 * [О PostCSS от его создателя](http://forwebdev.ru/css/about-postcss/)
 * [Как валидировать Sass/CSS с Stylelint (En)](http://www.creativenightly.com/2016/02/How-to-lint-your-css-with-stylelint/)
 * «Эстетичный Sass», серия статей: 
