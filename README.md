@@ -44,6 +44,10 @@
 * http://bitsofco.de/6-reasons-to-start-using-flexbox/
 * https://www.smashingmagazine.com/2016/02/the-flexbox-reading-list/
 
+### JavaScript
+
+* [ES5 руководство по JavaScript](https://habrahabr.ru/post/281110/)
+
 ### Git
 
 * [Толковая обучалка, если есть немного времени](http://githowto.com/ru)
