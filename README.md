@@ -32,7 +32,7 @@
 * https://github.com/philipwalton/flexbugs
 * http://bitsofco.de/6-reasons-to-start-using-flexbox/
 * https://www.smashingmagazine.com/2016/02/the-flexbox-reading-list/
-* https://preview.webflow.com/preview/flexbox-game
+* [Интерактивный игровой туториал по flexbox](https://preview.webflow.com/preview/flexbox-game?preview=d1a26b027c4803817087a91c651e321f&m=1)
 
 ### JavaScript
 
