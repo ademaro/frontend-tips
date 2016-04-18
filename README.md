@@ -20,17 +20,6 @@
 ### Техники
 * [Image Replacement](https://css-tricks.com/the-image-replacement-museum/)
 
-### CSS, SASS, LESS, PostCSS
-
-* [Интересные и необычные CSS рецепты (En)](http://ipestov.com/22-essential-css-recipes/)
-* [О PostCSS от его создателя](http://forwebdev.ru/css/about-postcss/)
-* [Как валидировать Sass/CSS с Stylelint (En)](http://www.creativenightly.com/2016/02/How-to-lint-your-css-with-stylelint/)
-* «Эстетичный Sass», серия статей: 
-  * [часть 1: «архитектура и организация»](http://prgssr.ru/development/estetichnyj-sass-chast-1---arhitektura-i-organizaciya.html) 
-  * [часть 2: «цвета и палитры»](http://prgssr.ru/development/estetichnyj-sass-chast-2-cveta-i-palitry.html) 
-  * [часть 3: «типографика и вертикальный ритм»](http://prgssr.ru/development/estetichnyj-sass-chast-3-tipografika-i-vertikalnyj-ritm.html)
-  * 
-
 ### Методологии
 * [БЭМ-методология: с чего всё начиналось и зачем это всё нужно](https://habrahabr.ru/company/yandex/blog/276035/)
 
@@ -43,6 +32,7 @@
 * https://github.com/philipwalton/flexbugs
 * http://bitsofco.de/6-reasons-to-start-using-flexbox/
 * https://www.smashingmagazine.com/2016/02/the-flexbox-reading-list/
+* https://preview.webflow.com/preview/flexbox-game
 
 ### JavaScript
 
@@ -80,10 +70,17 @@
   * [Часть 4: групповые и последовательные эффекты](http://css-live.ru/articles/rukovodstvo-po-web-animations-api-chast-4-gruppovye-i-posledovatelnye-effekty.html)
   * [Часть 5: траектории движений](http://css-live.ru/articles/rukovodstvo-po-web-animations-api-chast-5-priyatnaya-traektoriya-dvizheniya.html)
 
-### PREprocessors
+### CSS, PREprocessors
 
 * [PostCSS Quickstart Guide: Gulp Setup](http://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-gulp-setup--cms-24543)
 * [4 мифа о PostCSS](https://habrahabr.ru/post/280988/)
+* [Интересные и необычные CSS рецепты (En)](http://ipestov.com/22-essential-css-recipes/)
+* [О PostCSS от его создателя](http://forwebdev.ru/css/about-postcss/)
+* [Как валидировать Sass/CSS с Stylelint (En)](http://www.creativenightly.com/2016/02/How-to-lint-your-css-with-stylelint/)
+* «Эстетичный Sass», серия статей: 
+  * [часть 1: «архитектура и организация»](http://prgssr.ru/development/estetichnyj-sass-chast-1---arhitektura-i-organizaciya.html) 
+  * [часть 2: «цвета и палитры»](http://prgssr.ru/development/estetichnyj-sass-chast-2-cveta-i-palitry.html) 
+  * [часть 3: «типографика и вертикальный ритм»](http://prgssr.ru/development/estetichnyj-sass-chast-3-tipografika-i-vertikalnyj-ritm.html)
 
 ### Psd
 
