@@ -34,6 +34,9 @@
 * https://www.smashingmagazine.com/2016/02/the-flexbox-reading-list/
 * [Интерактивный игровой туториал по flexbox](https://preview.webflow.com/preview/flexbox-game?preview=d1a26b027c4803817087a91c651e321f&m=1)
 
+### Grid Layout
+* [Лекция Макеева по гридам](https://www.youtube.com/watch?v=JoRVUILXLxU)([презентация к лекции](https://pepelsbey.net/pres/grid-layout/))
+
 ### JavaScript
 
 * [ES5 руководство по JavaScript](https://habrahabr.ru/post/281110/)
@@ -70,7 +73,7 @@
   * [Часть 4: групповые и последовательные эффекты](http://css-live.ru/articles/rukovodstvo-po-web-animations-api-chast-4-gruppovye-i-posledovatelnye-effekty.html)
   * [Часть 5: траектории движений](http://css-live.ru/articles/rukovodstvo-po-web-animations-api-chast-5-priyatnaya-traektoriya-dvizheniya.html)
 
-### CSS, PREprocessors
+### Preprocessors
 
 * [PostCSS Quickstart Guide: Gulp Setup](http://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-gulp-setup--cms-24543)
 * [4 мифа о PostCSS](https://habrahabr.ru/post/280988/)
