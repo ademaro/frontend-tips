@@ -35,7 +35,7 @@
 * [Интерактивный игровой туториал по flexbox](https://preview.webflow.com/preview/flexbox-game?preview=d1a26b027c4803817087a91c651e321f&m=1)
 
 ### Grid Layout
-* [Лекция Макеева по гридам](https://www.youtube.com/watch?v=JoRVUILXLxU)([презентация к лекции](https://pepelsbey.net/pres/grid-layout/))
+* [Лекция Макеева по гридам](https://www.youtube.com/watch?v=JoRVUILXLxU) ([презентация к лекции](https://pepelsbey.net/pres/grid-layout/))
 
 ### JavaScript
 
