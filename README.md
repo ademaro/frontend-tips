@@ -3,7 +3,7 @@
 * html&css кодстайл: [оригинал на английском](http://codeguide.co/), [перевод](http://instanceof.pro/code-guide/)
 * js кодстайл: [от Airbnb](https://github.com/airbnb/javascript), [от javascript.ru](https://learn.javascript.ru/coding-style) 
 * [Словарь терминов по фронтенду](https://github.com/web-standards-ru/dictionary)
-* [Типичные названия классов в HTML](https://github.com/ermo4enkov/Class-list/blob/master/README.md), [Слова и сокращения в CSS-классах](https://github.com/nicothin/idiomatic-pre-CSS/blob/gh-pages/words_and_abbreviations.md)
+* [(1) Типичные названия классов в HTML](https://github.com/ermo4enkov/Class-list/blob/master/README.md), [(2) Слова и сокращения в CSS-классах](https://github.com/nicothin/idiomatic-pre-CSS/blob/gh-pages/words_and_abbreviations.md)
 * [Коллекция практических советов и заметок по вёрстке](http://habrahabr.ru/post/273471/)
 
 ### HTML5
