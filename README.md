@@ -54,6 +54,7 @@
 * [Понятные и наглядные обучалки от гитхаба (en)](https://help.github.com/)
 * [19 советов по повседневной работе с Git](http://habrahabr.ru/company/mailru/blog/267595/)
 * [Шпоргалка по гиту](https://github.com/tiimgreen/github-cheat-sheet) и [ещё одна](https://github.com/nicothin/web-development/tree/master/git)
+* [Эффективное использование Github](https://habrahabr.ru/company/2gis/blog/306166/)
 
 ### SVG
 
