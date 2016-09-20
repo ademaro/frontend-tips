@@ -55,6 +55,7 @@
 * [19 советов по повседневной работе с Git](http://habrahabr.ru/company/mailru/blog/267595/)
 * [Шпоргалка по гиту](https://github.com/tiimgreen/github-cheat-sheet) и [ещё одна](https://github.com/nicothin/web-development/tree/master/git)
 * [Эффективное использование Github](https://habrahabr.ru/company/2gis/blog/306166/)
+* [Ох, твою мать, git!](https://medium.com/@ABatickaya/%D0%BE%D1%85-%D1%82%D0%B2%D0%BE%D1%8E-%D0%BC%D0%B0%D1%82%D1%8C-git-7b269498afd7#.bc9rsiows)
 
 ### SVG
 
