@@ -62,9 +62,12 @@
 * [SVG `use` with External Source](https://css-tricks.com/svg-use-external-source/)
 * [SVG в вебе: Практическое руководство](https://svgontheweb.com/ru/)
 
+### Fonts
+* [Шрифты в вебе, обзор от 2016 года](https://habrahabr.ru/post/310044/)
+* [Улучшение загрузки шрифтов c помощью localStorage и WOFF2](https://htmlacademy.ru/blog/61)
+
 ### Advanced
 
-* [Улучшение загрузки шрифтов c помощью localStorage и WOFF2](https://htmlacademy.ru/blog/61)
 * [Детальный разбор как работает z-index](http://habrahabr.ru/post/166435/)
 * [О сборке front-end проекта](http://alexfedoseev.com/post/54/frontend-project-build)
 * [Производительность анимаций](https://developers.google.com/web/fundamentals/performance/rendering/stick-to-compositor-only-properties-and-manage-layer-count)
