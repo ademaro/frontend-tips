@@ -100,6 +100,9 @@
 * http://freebiesbug.com/psd-freebies/website-template/
 * http://www.freepik.com/free-psd/web-templates
 * https://psdrepo.com/tag/free-psd-website-templates/
+* https://symu.co/freebies/templates-4/
+* https://dcrazed.com/free-photoshop-psd-website-templates/
+* http://blazrobar.com/tag/full-website-design/
 
 ### Examples
 #### Sliders
