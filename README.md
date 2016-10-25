@@ -110,6 +110,9 @@
 * http://tympanus.net/Development/ParallaxContentSlider/
 * http://tympanus.net/Tutorials/FullscreenSlitSlider/
 
+### Icons
+
+* http://line25.com/articles/free-pure-css-icon-sets
 
 ### Разное
 
