@@ -119,3 +119,4 @@
 
 * [Чеклист вёрстки](https://github.com/ihorzenich/html5checklist/)
 * [У всех есть JavaScript, да?](http://frontender.info/everyone-has-js/#uvsehestyjavascriptda)
+* [Правильное использование фавиконок](https://bitsofco.de/all-about-favicons-and-touch-icons/)
