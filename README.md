@@ -76,6 +76,7 @@
 * [Как работают браузеры: принципы работы современных веб-браузеров](https://habrahabr.ru/post/174057/)
 * [О сборке front-end проекта](http://alexfedoseev.com/post/54/frontend-project-build)
 * [Производительность анимаций](https://developers.google.com/web/fundamentals/performance/rendering/stick-to-compositor-only-properties-and-manage-layer-count)
+* [Хинтинг ресурсов в браузере с помощь Prefetch, Preconnect и Prerender](https://scotch.io/tutorials/browser-resource-hinting-with-prefetch-preconnect-and-prerender)
 * Серия статей про Web Animations API:
   * [Введение: поговорим об Web Animations API](http://css-live.ru/articles/pogovorim-ob-web-animations-api.html)
   * [часть 1: создание базовой анимации](http://css-live.ru/articles/rukovodstvo-po-web-animations-api-chast-1-sozdanie-bazovoj-animacii.html)
