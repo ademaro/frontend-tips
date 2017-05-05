@@ -28,10 +28,9 @@
 
 ### FlexBox
 
-* http://frontender.info/a-guide-to-flexbox/
+* http://pepelsbey.net/2013/05/flexbox-gotcha/
 * http://html5.by/blog/flexbox/
 * http://bennettfeely.com/flexplorer/
-* http://pepelsbey.net/2013/05/flexbox-gotcha/
 * https://github.com/philipwalton/flexbugs
 * http://bitsofco.de/6-reasons-to-start-using-flexbox/
 * https://www.smashingmagazine.com/2016/02/the-flexbox-reading-list/
@@ -41,6 +40,7 @@
 
 ### Grid Layout
 * [Лекция Макеева по гридам](https://www.youtube.com/watch?v=JoRVUILXLxU) ([презентация к лекции](https://pepelsbey.net/pres/grid-layout/))
+* [Пора начинать фыркать, Сергей Попов](https://www.youtube.com/watch?v=GdG6Mv-HDLs) ([Слайды](http://css.moscow/2/grid-layout.pdf))
 
 ### JavaScript
 
