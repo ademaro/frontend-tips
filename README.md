@@ -25,6 +25,7 @@
 
 ### Методологии
 * [БЭМ-методология: с чего всё начиналось и зачем это всё нужно](https://habrahabr.ru/company/yandex/blog/276035/)
+* [поверка дерева на классы по БЭМ](https://yoksel.github.io/html-tree/)
 
 ### FlexBox
 
