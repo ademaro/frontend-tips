@@ -20,6 +20,15 @@
 * http://design-for-business.ru/analytics/articles/id/504.htm — про сетку на сайте
 * [Про вертикальный ритм, столь важный для типографики](http://www.smashingmagazine.com/2012/12/17/css-baseline-the-good-the-bad-and-the-ugly/), [2](http://zellwk.com/blog/why-vertical-rhythms/)
 
+### Доступность
+
+* [Эффективное использование ARIA в HTML5](http://prgssr.ru/development/ispolzovanie-aria-v-html5.html)
+* [Верстка сайтов для людей с ограниченными возможностями](http://www.cmsmagazine.ru/library/items/graphical_design/nesting-sites-for-people-with-disabilities/)
+* [Государственный сайт, доступный для людей с ограниченными возможностями](http://blog.gov.design/blog/2016/11/08/accessibility.html)
+* [Интернет для людей с ограниченными возможностями: почему мы не должны проектировать его для «других»](https://te-st.ru/2015/02/25/reframing-accessibility-for-the-web/)
+* [Подстраховка web-доступности семантических областей HTML5 через роли WAI-ARIA](https://habrahabr.ru/post/240065/)
+* [Доступность веб‑страницы](http://nicothin.pro/page/dostupnost-veb-stranicy)
+
 ### Техники
 * [Image Replacement](https://css-tricks.com/the-image-replacement-museum/)
 
