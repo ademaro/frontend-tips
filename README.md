@@ -40,6 +40,7 @@
 
 * http://pepelsbey.net/2013/05/flexbox-gotcha/
 * http://html5.by/blog/flexbox/
+* https://codepen.io/ademaro/full/ZWGWXE/
 * http://bennettfeely.com/flexplorer/
 * https://github.com/philipwalton/flexbugs
 * http://bitsofco.de/6-reasons-to-start-using-flexbox/
