@@ -137,5 +137,5 @@
 ### Разное
 
 * [Чеклист вёрстки](https://github.com/ihorzenich/html5checklist/)
-* [У всех есть JavaScript, да?](http://frontender.info/everyone-has-js/#uvsehestyjavascriptda)
+* [У всех есть JavaScript, да?](https://makehtml.github.io/everyone-has-js/)
 * [Правильное использование фавиконок](https://bitsofco.de/all-about-favicons-and-touch-icons/)
