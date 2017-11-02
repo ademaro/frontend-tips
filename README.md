@@ -48,6 +48,7 @@
 * [Интерактивный игровой туториал по flexbox](https://preview.webflow.com/preview/flexbox-game?preview=d1a26b027c4803817087a91c651e321f&m=1)
 * Игрухи на прохождение: [раз](http://flexboxfroggy.com), [два](http://www.flexboxdefense.com)
 * [Сборник ресурсов по флексбоксам](http://www.cssauthor.com/css-flexbox)
+* [11 вещей которые я узнал, читая спецификацию flexbox](https://habrahabr.ru/post/329820/)
 
 ### Grid Layout
 * [Лекция Макеева по гридам](https://www.youtube.com/watch?v=JoRVUILXLxU) ([презентация к лекции](https://pepelsbey.net/pres/grid-layout/))
