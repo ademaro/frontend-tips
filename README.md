@@ -54,6 +54,7 @@
 ### Grid Layout
 * [Лекция Макеева по гридам](https://www.youtube.com/watch?v=JoRVUILXLxU) ([презентация к лекции](https://pepelsbey.net/pres/grid-layout/))
 * [Пора начинать фыркать, Сергей Попов](https://www.youtube.com/watch?v=GdG6Mv-HDLs) ([Слайды](http://css.moscow/2/grid-layout.pdf))
+* [Игруха для изуения гридов](https://cssgridgarden.com)
 
 ### JavaScript
 
