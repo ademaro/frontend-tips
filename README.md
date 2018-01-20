@@ -141,3 +141,5 @@
 * [Чеклист вёрстки](https://github.com/ihorzenich/html5checklist/)
 * [У всех есть JavaScript, да?](https://makehtml.github.io/everyone-has-js/)
 * [Правильное использование фавиконок](https://bitsofco.de/all-about-favicons-and-touch-icons/)
+* [Что на самом деле происходит, когда...](https://github.com/makehtml/what-happens-when/blob/russian/README.ru.rst)
+
