@@ -14,7 +14,7 @@
 * [Спецификация для разработчиков от WHATWG](https://developers.whatwg.org/), [2](https://html.spec.whatwg.org/multipage/), [последняя спецификация от консорциума W3C](https://www.w3.org/TR/html51/)
 * [Напоминалка по выбору html5 тегов](https://pp.vk.me/c627726/v627726125/665f/LT_Tk5TLJK0.jpg)
 * http://html5doctor.com/ — для тех, кто сомневается какой тег использовать
-* http://bitsofco.de/2015/sectioning-content-in-html5/ — свежая статья про выбор `<div>`, `<section>` или `<article>` (eng) 
+* http://bitsofco.de/2015/sectioning-content-in-html5/ — статья про выбор `<div>`, `<section>` или `<article>` (eng) 
 * http://pepelsbey.net/pres/sense-coding/ — старо, но актуально (лекция Макеева)
 * http://pepelsbey.net/2011/07/sense-coding/ — к презентации Макеева
 * http://design-for-business.ru/analytics/articles/id/504.htm — про сетку на сайте
