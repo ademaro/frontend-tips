@@ -33,9 +33,9 @@
 * [Image Replacement](https://css-tricks.com/the-image-replacement-museum/)
 
 ### Методологии
+* [Способы организации CSS-кода](https://habr.com/post/256109/)
 * [БЭМ-методология: с чего всё начиналось и зачем это всё нужно](https://habrahabr.ru/company/yandex/blog/276035/)
 * [Поверка дерева на классы по БЭМ](https://yoksel.github.io/html-tree/)
-* [Способы организации CSS-кода](https://habrahabr.ru/post/256109/)
 * [Как работать с CSS-препроцессорами и БЭМ](https://nicothin.github.io/idiomatic-pre-CSS/)
 
 ### FlexBox
