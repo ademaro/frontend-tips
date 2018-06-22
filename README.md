@@ -144,4 +144,5 @@
 * [У всех есть JavaScript, да?](https://makehtml.github.io/everyone-has-js/)
 * [Правильное использование фавиконок](https://bitsofco.de/all-about-favicons-and-touch-icons/)
 * [Что на самом деле происходит, когда...](https://github.com/makehtml/what-happens-when/blob/russian/README.ru.rst)
+* [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
 
