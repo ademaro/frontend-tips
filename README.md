@@ -77,6 +77,7 @@
 * [Ох, твою мать, git!](https://medium.com/@ABatickaya/%D0%BE%D1%85-%D1%82%D0%B2%D0%BE%D1%8E-%D0%BC%D0%B0%D1%82%D1%8C-git-7b269498afd7#.bc9rsiows)
 * [Иконки для коммитов в гитхабе](https://gitmoji.carloscuesta.me/), [2](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 * [Git: подстраховка для ваших проектов](http://frontender.info/git-the-safety-net-for-your-projects/)
+* [Git happens! 6 типичных ошибок Git и как их исправить](https://habr.com/company/flant/blog/419733/)
 
 ### SVG
 
