@@ -7,7 +7,6 @@
 * [(1) Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words), [(2) Типичные названия классов в HTML](https://github.com/ermo4enkov/Class-list/blob/master/README.md), [(3) Слова и сокращения в CSS-классах](https://github.com/nicothin/idiomatic-pre-CSS/blob/gh-pages/words_and_abbreviations.md)
 * [Коллекция практических советов и заметок по вёрстке](http://habrahabr.ru/post/273471/)
 * [Front-End Developer Handbook 2017](https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/)
-* [Шпаргалка по Flexbox (CSS3 Flexible Box)](https://habrahabr.ru/post/313938/)
 
 ### HTML5
 
@@ -51,6 +50,7 @@
 * Игрухи на прохождение: [раз](http://flexboxfroggy.com), [два](http://www.flexboxdefense.com)
 * [Сборник ресурсов по флексбоксам](http://www.cssauthor.com/css-flexbox)
 * [11 вещей которые я узнал, читая спецификацию flexbox](https://habrahabr.ru/post/329820/)
+* [Шпаргалка по Flexbox (CSS3 Flexible Box)](https://habrahabr.ru/post/313938/)
 
 ### Grid Layout
 * [Лекция Макеева по гридам](https://www.youtube.com/watch?v=JoRVUILXLxU) ([презентация к лекции](https://pepelsbey.net/pres/grid-layout/))
