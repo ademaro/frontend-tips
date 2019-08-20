@@ -113,6 +113,7 @@
 
 ### Preprocessors
 
+* [Easy Media Queries Shortcodes (w/ LESS) + tester tag](https://codepen.io/jokerinteractive/pen/VYRoZd)
 * [PostCSS Quickstart Guide: Gulp Setup](http://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-gulp-setup--cms-24543)
 * [4 мифа о PostCSS](https://habrahabr.ru/post/280988/)
 * [Интересные и необычные CSS рецепты (En)](http://ipestov.com/22-essential-css-recipes/)
