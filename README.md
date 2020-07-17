@@ -66,6 +66,7 @@
 
 * [ES5 руководство по JavaScript](https://habrahabr.ru/post/281110/)
 * [Что такое Throttling и Debouncing?](https://medium.com/nuances-of-programming/что-такое-throttling-и-debouncing-4f0a839769ef)
+* [Debounce vs Throttle vs Audit vs Sample наглядно](https://dev.to/rxjs/debounce-vs-throttle-vs-audit-vs-sample-difference-you-should-know-1f21)
 
 ### Git
 
