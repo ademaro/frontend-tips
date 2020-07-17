@@ -65,6 +65,7 @@
 ### JavaScript
 
 * [ES5 руководство по JavaScript](https://habrahabr.ru/post/281110/)
+* [Что такое Throttling и Debouncing?](https://medium.com/nuances-of-programming/что-такое-throttling-и-debouncing-4f0a839769ef)
 
 ### Git
 
