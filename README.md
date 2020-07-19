@@ -95,6 +95,7 @@
 * [Делаем разноцветные иконки с помощью SVG-символов и CSS-переменных](https://habrahabr.ru/post/348194/)
 
 ### Fonts
+* [Таблица с распространёнными шрифтами и процентами присутствия](https://www.cssfontstack.com/)
 * [Шрифты в вебе, обзор от 2016 года](https://habrahabr.ru/post/310044/)
 * [Улучшение загрузки шрифтов c помощью localStorage и WOFF2](https://htmlacademy.ru/blog/61)
 
