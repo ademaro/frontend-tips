@@ -61,6 +61,7 @@
 * [Полный гайд по гридам на английском на css-tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
 * [CSS Grid Generator](https://grid.layoutit.com/)
 * [Grid cheatsheet от Yoksel](https://yoksel.github.io/grid-cheatsheet/)
+* [Grids on MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)
 
 
 ### JavaScript
