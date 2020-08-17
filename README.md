@@ -53,6 +53,7 @@
 * [11 вещей которые я узнал, читая спецификацию flexbox](https://habrahabr.ru/post/329820/)
 * [Шпаргалка по Flexbox (CSS3 Flexible Box)](https://habrahabr.ru/post/313938/)
 * [Полный гайд по флексбоксам на английском на css-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Исследование CSS-свойства flex](https://habr.com/ru/company/ruvds/blog/515298/)
 
 ### Grid Layout
 * [Лекция Макеева по гридам](https://www.youtube.com/watch?v=JoRVUILXLxU) ([презентация к лекции](https://pepelsbey.net/pres/grid-layout/))
