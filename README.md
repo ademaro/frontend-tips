@@ -92,9 +92,9 @@
 
 ### SVG
 
-* [SVG-иконки – много и со стилем](http://habrahabr.ru/company/devexpress/blog/269331/)
-* [SVG `use` with External Source](https://css-tricks.com/svg-use-external-source/)
 * [SVG в вебе: Практическое руководство](https://svgontheweb.com/ru/)
+* [SVG-иконки – много и со стилем](http://habrahabr.ru/company/devexpress/blog/269331/)
+* [SVG `use` with External Source (en)](https://css-tricks.com/svg-use-external-source/)
 * [Делаем разноцветные иконки с помощью SVG-символов и CSS-переменных](https://habrahabr.ru/post/348194/)
 
 ### Fonts
