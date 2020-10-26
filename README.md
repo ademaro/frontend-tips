@@ -161,4 +161,5 @@
 * [Что на самом деле происходит, когда...](https://github.com/makehtml/what-happens-when/blob/russian/README.ru.rst)
 * [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
 * [Настройка консоли в винде 10](https://nicothin.pro/page/windows-subsystem-for-linux)
+* [Современные фавиконки](https://medium.com/swlh/are-you-using-svg-favicons-yet-a-guide-for-modern-browsers-836a6aace3df)
 
