@@ -10,7 +10,6 @@
 * [10 современных однострочных раскладок (en)](https://web.dev/one-line-layouts/)
 
 ### HTML5
-
 * [Спецификация для разработчиков от WHATWG](https://developers.whatwg.org/), [2](https://html.spec.whatwg.org/multipage/), [последняя спецификация от консорциума W3C](https://www.w3.org/TR/html51/)
 * [Напоминалка по выбору html5 тегов](https://pp.vk.me/c627726/v627726125/665f/LT_Tk5TLJK0.jpg)
 * http://html5doctor.com/ — для тех, кто сомневается какой тег использовать
@@ -21,7 +20,6 @@
 * [Про вертикальный ритм, столь важный для типографики](http://www.smashingmagazine.com/2012/12/17/css-baseline-the-good-the-bad-and-the-ugly/), [2](http://zellwk.com/blog/why-vertical-rhythms/)
 
 ### Доступность
-
 * [Эффективное использование ARIA в HTML5](http://prgssr.ru/development/ispolzovanie-aria-v-html5.html)
 * [Верстка сайтов для людей с ограниченными возможностями](http://www.cmsmagazine.ru/library/items/graphical_design/nesting-sites-for-people-with-disabilities/)
 * [Государственный сайт, доступный для людей с ограниченными возможностями](http://blog.gov.design/blog/2016/11/08/accessibility.html)
@@ -39,7 +37,6 @@
 * [Как работать с CSS-препроцессорами и БЭМ](https://nicothin.github.io/idiomatic-pre-CSS/)
 
 ### FlexBox
-
 * http://pepelsbey.net/2013/05/flexbox-gotcha/
 * http://html5.by/blog/flexbox/
 * https://codepen.io/ademaro/full/ZWGWXE/
@@ -65,14 +62,15 @@
 * [Grids on MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)
 
 
-### JavaScript
+### Adaptive
+* [Отзывчивый веб-дизайн и учёт высоты окна браузера](https://habr.com/en/company/ruvds/blog/525410/)
 
+### JavaScript
 * [ES5 руководство по JavaScript](https://habrahabr.ru/post/281110/)
 * [Что такое Throttling и Debouncing?](https://medium.com/nuances-of-programming/что-такое-throttling-и-debouncing-4f0a839769ef)
 * [Debounce vs Throttle vs Audit vs Sample наглядно](https://dev.to/rxjs/debounce-vs-throttle-vs-audit-vs-sample-difference-you-should-know-1f21)
 
 ### Git
-
 * [Толковая обучалка, если есть немного времени](http://githowto.com/ru)
 * [Игра-обучалка](http://pcottle.github.io/learnGitBranching/)
 * [Очень краткое руководство-шпаргалка](http://rogerdudler.github.io/git-guide/index.ru.html)
@@ -91,7 +89,6 @@
 * [Мой любимый Git-коммит](https://habr.com/en/company/flant/blog/472278/) — советую почитать, что бы понять что писать в название и описание коммита
 
 ### SVG
-
 * [SVG в вебе: Практическое руководство](https://svgontheweb.com/ru/)
 * [SVG-иконки – много и со стилем](http://habrahabr.ru/company/devexpress/blog/269331/)
 * [SVG `use` with External Source (en)](https://css-tricks.com/svg-use-external-source/)
@@ -106,7 +103,6 @@
 * [Google Maps — кастомизируй меня полностью](https://habrahabr.ru/post/324880/)
 
 ### Advanced
-
 * [Детальный разбор как работает z-index](http://habrahabr.ru/post/166435/)
 * [Как работают браузеры: принципы работы современных веб-браузеров](https://habrahabr.ru/post/174057/)
 * [О сборке front-end проекта](http://alexfedoseev.com/post/54/frontend-project-build)
@@ -122,7 +118,6 @@
   * [Часть 5: траектории движений](http://css-live.ru/articles/rukovodstvo-po-web-animations-api-chast-5-priyatnaya-traektoriya-dvizheniya.html)
 
 ### Preprocessors
-
 * [Easy Media Queries Shortcodes (w/ LESS) + tester tag](https://codepen.io/jokerinteractive/pen/VYRoZd)
 * [PostCSS Quickstart Guide: Gulp Setup](http://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-gulp-setup--cms-24543)
 * [4 мифа о PostCSS](https://habrahabr.ru/post/280988/)
@@ -135,7 +130,6 @@
   * [часть 3: «типографика и вертикальный ритм»](http://prgssr.ru/development/estetichnyj-sass-chast-3-tipografika-i-vertikalnyj-ritm.html)
 
 ### Psd
-
 * http://freebiesbug.com/psd-freebies/website-template/
 * http://www.freepik.com/free-psd/web-templates
 * https://psdrepo.com/tag/free-psd-website-templates/
