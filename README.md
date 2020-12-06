@@ -2,7 +2,8 @@
 
 * html&css кодстайл: [оригинал на английском](http://codeguide.co/), [перевод](http://instanceof.pro/code-guide/)
 * js кодстайл: [от Airbnb](https://github.com/airbnb/javascript), [от javascript.ru](https://learn.javascript.ru/coding-style) 
-* [общие стандарты и рекомендации оформления кода](http://isobar-idev.github.io/code-standards/)
+* [Общие стандарты и рекомендации оформления кода](http://isobar-idev.github.io/code-standards/)
+* [Принципы написания однородного CSS-кода](https://github.com/necolas/idiomatic-css/tree/master/translations/ru-RU)
 * [Словарь терминов по фронтенду](https://github.com/web-standards-ru/dictionary)
 * [(1) Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words), [(2) Типичные названия классов в HTML](https://github.com/ermo4enkov/Class-list/blob/master/README.md), [(3) Слова и сокращения в CSS-классах](https://github.com/nicothin/idiomatic-pre-CSS/blob/gh-pages/words_and_abbreviations.md)
 * [Коллекция практических советов и заметок по вёрстке](http://habrahabr.ru/post/273471/)
