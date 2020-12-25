@@ -92,6 +92,7 @@
 * [Git: подстраховка для ваших проектов](http://frontender.info/git-the-safety-net-for-your-projects/)
 * [Git happens! 6 типичных ошибок Git и как их исправить](https://habr.com/company/flant/blog/419733/)
 * [Мой любимый Git-коммит](https://habr.com/en/company/flant/blog/472278/) — советую почитать, что бы понять что писать в название и описание коммита
+* [Команды исправления допущенных ошибок](https://dangitgit.com/ru) ([Версия без цензуры](https://ohshitgit.com/ru)) — Git, я хочу все отменить!
 
 ### SVG
 * [SVG в вебе: Практическое руководство](https://svgontheweb.com/ru/)
