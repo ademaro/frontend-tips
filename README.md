@@ -107,6 +107,7 @@
 
 ### Maps
 * [Google Maps — кастомизируй меня полностью](https://habrahabr.ru/post/324880/)
+* [Подключение лёгкой библиотеки](https://leafletjs.com/examples/quick-start/) и [плагины для библиотеки](https://github.com/shramov/leaflet-plugins/blob/master/layer/tile/Yandex.md)
 
 ### Advanced
 * [Детальный разбор как работает z-index](http://habrahabr.ru/post/166435/)
