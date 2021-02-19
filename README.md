@@ -138,6 +138,9 @@
   * [часть 2: «цвета и палитры»](http://prgssr.ru/development/estetichnyj-sass-chast-2-cveta-i-palitry.html) 
   * [часть 3: «типографика и вертикальный ритм»](http://prgssr.ru/development/estetichnyj-sass-chast-3-tipografika-i-vertikalnyj-ritm.html)
 
+### Email
+* [Таблица совместимости фич у email-клиентов](https://www.caniemail.com/), [2](https://www.campaignmonitor.com/css/)
+
 ### Psd
 * http://freebiesbug.com/psd-freebies/website-template/
 * http://www.freepik.com/free-psd/web-templates
