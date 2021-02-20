@@ -140,6 +140,7 @@
 
 ### Email
 * [Таблица совместимости фич у email-клиентов](https://www.caniemail.com/), [2](https://www.campaignmonitor.com/css/)
+* [Сервис для отправки html-писем для тестирования](https://sendhtmail.ru/), [2](https://putsmail.com/)
 
 ### Psd
 * http://freebiesbug.com/psd-freebies/website-template/
