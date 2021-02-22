@@ -142,6 +142,9 @@
 * [Таблица совместимости фич у email-клиентов](https://www.caniemail.com/), [2](https://www.campaignmonitor.com/css/)
 * [Сервис для отправки html-писем для тестирования](https://sendhtmail.ru/), [2](https://putsmail.com/)
 
+### Optimization
+* [Максимально оптимизированная веб-загрузка изображений в 2021 году](https://habr.com/en/company/mailru/blog/543434/)
+
 ### Psd
 * http://freebiesbug.com/psd-freebies/website-template/
 * http://www.freepik.com/free-psd/web-templates
