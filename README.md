@@ -70,8 +70,9 @@
 ### JavaScript
 * [ES5 руководство по JavaScript](https://habrahabr.ru/post/281110/)
 * [Что такое Throttling и Debouncing?](https://medium.com/nuances-of-programming/что-такое-throttling-и-debouncing-4f0a839769ef)
+* [Throttling vs Debouncing (en)](https://css-tricks.com/debouncing-throttling-explained-examples/)
 * [Debounce vs Throttle vs Audit vs Sample наглядно](https://dev.to/rxjs/debounce-vs-throttle-vs-audit-vs-sample-difference-you-should-know-1f21)
-* [Порядок выполнения скриптов в HTML. Тег script и атрибуты async, defer, module, nomodule и src](https://tproger.ru/translations/script-execution-order/}
+* [Порядок выполнения скриптов в HTML. Тег script и атрибуты async, defer, module, nomodule и src](https://tproger.ru/translations/script-execution-order/)
 * [Знакомимся с перебирающим методом Reduce на примерах (en)](https://www.freecodecamp.org/news/the-ultimate-guide-to-javascript-array-methods-reduce/)
 * [Как считать объекты в массивах (en)](https://www.freecodecamp.org/news/how-to-count-objects-in-an-array/)
 * [Оператор нулевого слияния](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator)
