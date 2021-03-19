@@ -118,6 +118,7 @@
 * [О сборке front-end проекта](http://alexfedoseev.com/post/54/frontend-project-build)
 * [Производительность анимаций](https://developers.google.com/web/fundamentals/performance/rendering/stick-to-compositor-only-properties-and-manage-layer-count)
 * [Хинтинг ресурсов в браузере с помощь Prefetch, Preconnect и Prerender](https://scotch.io/tutorials/browser-resource-hinting-with-prefetch-preconnect-and-prerender)
+* [Preload, prefetch and other `<link>` tags](https://3perf.com/blog/link-rels/)
 * [Оптимизация производительности фронтенда. Часть 1. Critical Render Path](https://habr.com/en/company/hh/blog/513940/)
 * Серия статей про Web Animations API:
   * [Введение: поговорим об Web Animations API](http://css-live.ru/articles/pogovorim-ob-web-animations-api.html)
