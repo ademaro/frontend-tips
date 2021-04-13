@@ -19,6 +19,7 @@
 * http://pepelsbey.net/2011/07/sense-coding/ — к презентации Макеева
 * http://design-for-business.ru/analytics/articles/id/504.htm — про сетку на сайте
 * [Про вертикальный ритм, столь важный для типографики](http://www.smashingmagazine.com/2012/12/17/css-baseline-the-good-the-bad-and-the-ugly/), [2](http://zellwk.com/blog/why-vertical-rhythms/)
+* [Очередной гайд по HTML-элементам, которые можно использовать в каждом проекте](https://habr.com/en/post/546994/)
 
 ### Доступность
 * [Эффективное использование ARIA в HTML5](http://prgssr.ru/development/ispolzovanie-aria-v-html5.html)
