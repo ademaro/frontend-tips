@@ -105,6 +105,9 @@
 * [SVG `use` with External Source (en)](https://css-tricks.com/svg-use-external-source/)
 * [Делаем разноцветные иконки с помощью SVG-символов и CSS-переменных](https://habrahabr.ru/post/348194/)
 
+### Favicons
+* [SVG favicons](https://austingil.com/svg-favicons/)
+
 ### Fonts
 * [Таблица с распространёнными шрифтами и процентами присутствия](https://www.cssfontstack.com/)
 * [Шрифты в вебе, обзор от 2016 года](https://habrahabr.ru/post/310044/)
