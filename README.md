@@ -120,6 +120,7 @@
 
 ### Advanced
 * [Детальный разбор как работает z-index](http://habrahabr.ru/post/166435/)
+* [22 CSS-трюка](https://betterprogramming.pub/22-css-tricks-that-can-make-you-a-layout-ninja-452847fba639)
 * [Как работают браузеры: принципы работы современных веб-браузеров](https://habrahabr.ru/post/174057/)
 * [О сборке front-end проекта](http://alexfedoseev.com/post/54/frontend-project-build)
 * [Производительность анимаций](https://developers.google.com/web/fundamentals/performance/rendering/stick-to-compositor-only-properties-and-manage-layer-count)
