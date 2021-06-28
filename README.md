@@ -63,6 +63,7 @@
 * [Grid cheatsheet от Yoksel](https://yoksel.github.io/grid-cheatsheet/)
 * [Grids on MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)
 * [Подробности об использовании CSS-функции minmax() в Grid-макетах](https://habr.com/en/company/ruvds/blog/529830/)
+* [Полное визуальное руководство/шпаргалка по CSS Grid](https://habr.com/en/company/macloud/blog/564182/)
 
 
 ### Adaptive
