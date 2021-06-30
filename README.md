@@ -28,6 +28,7 @@
 * [Интернет для людей с ограниченными возможностями: почему мы не должны проектировать его для «других»](https://te-st.ru/2015/02/25/reframing-accessibility-for-the-web/)
 * [Подстраховка web-доступности семантических областей HTML5 через роли WAI-ARIA](https://habrahabr.ru/post/240065/)
 * [Доступность веб‑страницы](http://nicothin.pro/page/dostupnost-veb-stranicy)
+* [Проверка сочетания цветов по WCAG](https://webaim.org/resources/contrastchecker/)
 
 ### Техники
 * [Image Replacement](https://css-tricks.com/the-image-replacement-museum/)
