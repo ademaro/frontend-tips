@@ -125,6 +125,7 @@
 * [Как работают браузеры: принципы работы современных веб-браузеров](https://habrahabr.ru/post/174057/)
 * [О сборке front-end проекта](http://alexfedoseev.com/post/54/frontend-project-build)
 * [Производительность анимаций](https://developers.google.com/web/fundamentals/performance/rendering/stick-to-compositor-only-properties-and-manage-layer-count)
+* [The Future of CSS: Scroll-Linked Animations with @scroll-timeline, Pt.1](https://www.bram.us/2021/02/23/the-future-of-css-scroll-linked-animations-part-1/)
 * [Хинтинг ресурсов в браузере с помощь Prefetch, Preconnect и Prerender](https://scotch.io/tutorials/browser-resource-hinting-with-prefetch-preconnect-and-prerender)
 * [Preload, prefetch and other `<link>` tags](https://3perf.com/blog/link-rels/)
 * [Оптимизация производительности фронтенда. Часть 1. Critical Render Path](https://habr.com/en/company/hh/blog/513940/)
