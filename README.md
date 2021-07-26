@@ -156,6 +156,9 @@
 ### Optimization
 * [Максимально оптимизированная веб-загрузка изображений в 2021 году](https://habr.com/en/company/mailru/blog/543434/)
 
+### Security
+* [Памятка и туториал по HTTP-заголовкам, связанным с безопасностью веб-приложений](https://habr.com/en/company/timeweb/blog/568288/)
+
 ### Tools
 * [Инструменты для аудита CSS](https://habr.com/ru/company/macloud/blog/557580/)
 
