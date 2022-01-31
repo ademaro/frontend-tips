@@ -29,6 +29,8 @@
 * [Подстраховка web-доступности семантических областей HTML5 через роли WAI-ARIA](https://habrahabr.ru/post/240065/)
 * [Доступность веб‑страницы](http://nicothin.pro/page/dostupnost-veb-stranicy)
 * [Проверка сочетания цветов по WCAG](https://webaim.org/resources/contrastchecker/)
+* [Чеклист для проверки доступности](https://www.a11yproject.com/checklist/)
+* [5 самых частых ошибок досупности (и способы из решений)](https://www.better.dev/most-common-a11y-mistakes)
 
 ### Техники
 * [Image Replacement](https://css-tricks.com/the-image-replacement-museum/)
