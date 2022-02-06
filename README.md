@@ -9,6 +9,7 @@
 * [Коллекция практических советов и заметок по вёрстке](http://habrahabr.ru/post/273471/)
 * [Front-End Developer Handbook 2017](https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/)
 * [10 современных однострочных раскладок (en)](https://web.dev/one-line-layouts/)
+* [Браузерные стили](https://www.notion.so/ademaro/a7049d6381f84c72a7dcd5f24824117a)
 
 ### HTML5
 * [Спецификация для разработчиков от WHATWG](https://developers.whatwg.org/), [2](https://html.spec.whatwg.org/multipage/), [последняя спецификация от консорциума W3C](https://www.w3.org/TR/html51/)
