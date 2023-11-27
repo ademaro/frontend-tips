@@ -32,6 +32,7 @@
 * [Проверка сочетания цветов по WCAG](https://webaim.org/resources/contrastchecker/)
 * [Чеклист для проверки доступности](https://www.a11yproject.com/checklist/)
 * [5 самых частых ошибок досупности (и способы из решений)](https://www.better.dev/most-common-a11y-mistakes)
+* Как HTML и CSS влияют на доступность [ч1](https://habr.com/ru/companies/ruvds/articles/757490/), [ч2](https://habr.com/ru/companies/ruvds/articles/766344/), [ч3](https://habr.com/ru/companies/ruvds/articles/771082/)
 
 ### Техники
 * [Image Replacement](https://css-tricks.com/the-image-replacement-museum/)
