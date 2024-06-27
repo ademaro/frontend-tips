@@ -85,7 +85,7 @@
 * [Оператор нулевого слияния](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator)
 * [Лексическое окружение (LexicalEnvironment) и Замыкание (Closures) в EcmaScript](https://habr.com/en/post/474852/)
 * [Шпаргалка по JS-методам для работы с DOM](https://habr.com/ru/company/macloud/blog/557422/)
-* [Крутое видео про асинхронность](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
+* [Крутое видео про асинхронность](https://www.youtube.com/watch?v=cCOL7MC4Pl0) (Как работает цикл событий event loop)
 
 ### Git
 * [Толковая обучалка, если есть немного времени](http://githowto.com/ru)
